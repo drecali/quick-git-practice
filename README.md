@@ -6,3 +6,4 @@ Here are the participants:
  * Andrei
  * Jia Son
  * Dasom
+ * yuna
