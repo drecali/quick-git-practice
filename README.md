@@ -8,6 +8,7 @@ Here are the participants:
  * Dasom
  * yuna
  * git : https://www.youtube.com/watch?v=FXDjmsiv8fI
+ 
 $ git init (.git 폴더 생성)
 $ git add -A (백업할 파일들 전부 선택)
 $ git commit -m "작업수행 내용" (이 시점까지 이런 작업 진행)
