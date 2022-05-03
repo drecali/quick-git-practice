@@ -13,8 +13,11 @@ Here are the participants:
 Do you see the `.md` at the end of this filename (`README.md`)? That's a file extension called `Markdown`. It's an easy way to format text. Like HTML but easier and more readable. Please search for a `github markdown cheatsheet` or the equivalent 한글 term.
 
 ## Git Commands
+
+* git 폴더 생성
+  * `$ git init`
+
 ```
- $ git init (.git 폴더 생성)
  $ git add -A (백업할 파일들 전부 선택)
  $ git commit -m "작업수행 내용" (이 시점까지 이런 작업 진행)
  *commit해서 박제 / 각 버전의 변경사항들만 기록되는 거라 박제를 여러번해도 용량을 몇 배로 차지하지 않음 
