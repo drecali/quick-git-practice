@@ -1,5 +1,4 @@
 # quick-git-practice
-
 This is a quick example about the basics of Git and GitHub.
 
 Here are the participants:
@@ -9,6 +8,9 @@ Here are the participants:
  * yuna
  * git : https://www.youtube.com/watch?v=FXDjmsiv8fI
  * study: https://www.youtube.com/watch?v=nhNq2kIvi9s
+
+## Markdown
+Do you see the `.md` at the end of this filename (`README.md`)? That's a file extension called `Markdown`. It's an easy way to format text. Like HTML but easier and more readable. Please search for a `github markdown cheatsheet` or the equivalent 한글 term.
 
  $ git init (.git 폴더 생성)
  $ git add -A (백업할 파일들 전부 선택)
