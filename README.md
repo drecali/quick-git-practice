@@ -8,6 +8,7 @@ Here are the participants:
  * Dasom
  * yuna
  * git : https://www.youtube.com/watch?v=FXDjmsiv8fI
+ * study: https://www.youtube.com/watch?v=nhNq2kIvi9s
 
  $ git init (.git 폴더 생성)
  $ git add -A (백업할 파일들 전부 선택)
