@@ -12,6 +12,8 @@ Here are the participants:
 ## Markdown
 Do you see the `.md` at the end of this filename (`README.md`)? That's a file extension called `Markdown`. It's an easy way to format text. Like HTML but easier and more readable. Please search for a `github markdown cheatsheet` or the equivalent 한글 term.
 
+### Markdown Headings
+
 ## Git Commands
 
 * git 폴더 생성
