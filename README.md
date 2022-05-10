@@ -13,9 +13,9 @@ Here are the participants:
 Do you see the `.md` at the end of this filename (`README.md`)? That's a file extension called `Markdown`. It's an easy way to format text. Like HTML but easier and more readable. Please search for a `github markdown cheatsheet` or the equivalent 한글 term.
 
 ### Markdown Headings
-# Heading 1 (equivalent to `<h1>Heading1</>`)
-## Heading 2 (equivalent to `<h2>Heading2</>`)
-### Heading 3 (equivalent to `<h3>Heading3</>`)
+# Heading 1 (equivalent to `<h1>Heading1</h1>`)
+## Heading 2 (equivalent to `<h2>Heading2</h2>`)
+### Heading 3 (equivalent to `<h3>Heading3</h3>`)
 
 ## Git Commands
 
