@@ -16,6 +16,7 @@ Do you see the `.md` at the end of this filename (`README.md`)? That's a file ex
 # Heading 1 (equivalent to `<h1>Heading1</h1>`)
 ## Heading 2 (equivalent to `<h2>Heading2</h2>`)
 ### Heading 3 (equivalent to `<h3>Heading3</h3>`)
+#### Heading 4
 
 ## Git Commands
 
@@ -34,3 +35,5 @@ Do you see the `.md` at the end of this filename (`README.md`)? That's a file ex
   * `$ git branch <newbranch>`
 * 적용해도 되겠다 싶으면 브랜치 합침
   * `$ git merge <newbranch>`
+
+code
