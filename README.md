@@ -1,4 +1,4 @@
-# quick-git-practice
+# Quick Git Practice
 This is a quick example about the basics of Git and GitHub.
 
 Here are the participants:
