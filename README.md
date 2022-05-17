@@ -18,6 +18,14 @@ Do you see the `.md` at the end of this filename (`README.md`)? That's a file ex
 ### Heading 3 (equivalent to `<h3>Heading3</h3>`)
 #### Heading 4
 
+### Markdown Tables
+Markdown makes it easy to create tables
+
+| Column A | Column B |
+|--|--|
+| Yes | No |
+| `true` | `false`|
+
 ## Git Commands
 
 * git 폴더 생성
