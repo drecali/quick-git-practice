@@ -31,6 +31,12 @@ Markdown makes it easy to create tables
 | Yes | No |
 | `true` | `false`|
 
+| Column C | Column D |
+|--|--|
+| Yes | No |
+| `true` | `false`|
+
+
 ## Git Commands
 
 * git 폴더 생성
