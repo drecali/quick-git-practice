@@ -359,7 +359,7 @@ div.navbar-header:after {
   position: relative;
   padding: 0px;
   box-shadow: 0px 0px 1px rgba(0, 0, 0, 0.4);
-  background: url("../images/banner-bg.jpg") no-repeat;
+  background: url("https://placekitten.com/1000") no-repeat;
   background-size: cover !important;
   height: 650px;
   /* background-size: cover; */
